@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌱 I’m interested in Java, SpringBoot , REST APIs<br>📫 How to reach me - ugarkarsumedh@gmail.com
+<h3>CS grad | Aspiring Software Developer</h3>
+<p>Backend is my comfort zone — Java, Spring Boot, Spring Data JPA, REST APIs, and relational databases. On the frontend, I work with HTML, CSS, and JavaScript to complete the picture.
+I care about writing code that's clean, structured, and built to scale. Currently building projects that reflect that.</p>
+📫 How to reach me - ugarkarsumedh@gmail.com
 
 
 ## 🌐 Socials:
